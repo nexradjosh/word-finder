@@ -91,8 +91,8 @@ Corresponding result files are also included for some grids.
 
 ## License
 
-[Your chosen license]
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ## Author
 
-[Your name]
+Josh Todd
